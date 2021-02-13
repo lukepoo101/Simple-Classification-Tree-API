@@ -59,4 +59,4 @@ api.add_resource(Update_db, "/update_db", "/update_db/")
 print(get_result([4, 0, 1, 1, 0]))
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5800, host="192.168.1.146")
+    app.run(debug=True, port=5800)
