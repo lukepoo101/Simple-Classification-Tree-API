@@ -1,0 +1,4 @@
+Animal,Legs,Hair,Fins,Carnivor,Herbivore,Likes milk,Wool,Insect,Pet,Mammal
+Cat,4,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE
+Dog,4,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Pig,4,False,False,False,True,False,False,False,False,True

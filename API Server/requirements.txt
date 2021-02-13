@@ -1,0 +1,8 @@
+json
+flask
+flask_restful
+pickle
+sqlite3
+pandas
+sklearn
+gunicorn

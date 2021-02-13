@@ -1,0 +1,44 @@
+{
+  "Identifiers": {
+    "Legs": {
+      "question": "How many legs does you animal have?",
+      "type": "int"
+    },
+    "Hair": {
+      "question": "Does your animal have hair? (Does not include wool like a sheep)",
+      "type": "boolean"
+    },
+    "Fins": {
+      "question": "Does your animal have fins?",
+      "type": "boolean"
+    },
+    "Carnivor": {
+      "question": "Is your animal a carnivore?",
+      "type": "boolean"
+    },
+    "Likes milk": {
+      "question": "Is your animal known for liking milk?",
+      "type": "boolean"
+    },
+    "Wool": {
+      "question": "Does your animal have wool?",
+      "type": "boolean"
+    },
+    "Insect": {
+      "question": "Is your animal an insect?",
+      "type": "boolean"
+    },
+    "Pet": {
+      "question": "Is your animal commonly kept as a pet?",
+      "type": "boolean"
+    },
+    "Mammal": {
+      "question": "Is your animal a mammal?",
+      "type": "boolean"
+    },
+    "Herbivore": {
+      "question": "Is your animal a herbivore?",
+      "type": "boolean"
+    }
+  }
+}
