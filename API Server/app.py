@@ -4,6 +4,7 @@ from Main import get_result, get_identifiers, update_database
 from flask import Flask
 from flask_restful import Api, Resource, reqparse
 
+#define
 app = Flask(__name__)
 api = Api(app)
 
